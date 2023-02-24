@@ -1,0 +1,23 @@
+_id: req_f18b3c853e074baa96d5efb1d3b35f9e
+type: Request
+parentId: fld_f87dc4c521bc4417a0b22355585bdd0c
+modified: 1666292165418
+created: 1666292109504
+url: http://localhost:5000/vehicle/nameorder?Name=folha
+name: /vehicle/nameorder
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiNiIsInJvbGUiOiJBZG1pbiIsIm5iZiI6MTY2NjI5MTg0OSwiZXhwIjoxNjY2MzIwNjQ5LCJpYXQiOjE2NjYyOTE4NDl9.79xVY4x6SglNrenggyUwkxDSSx8-TpGP9IHhdWTLmd4
+metaSortKey: -1666292109504
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

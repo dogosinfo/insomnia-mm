@@ -1,0 +1,26 @@
+_id: req_f993310ee7434ecbab3dc1709911e123
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1660690048834
+created: 1660238010637
+url: https://service.massinteligencia.com.br/api/utils/encode-html
+name: ocelot
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '"<p>string</p><p>de<br />teste</p>" '
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_0fc6741c7d634d6588e5451a487a62ac
+authentication: {}
+metaSortKey: -1659861322019.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

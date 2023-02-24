@@ -1,0 +1,21 @@
+_id: req_05a03cf9960341a196022c69c9c9fad2
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1660095687287
+created: 1660094266155
+url: https://aks.massinteligencia.com.br/imgbase64?publicId=2dec7946cd194a26804eedabe001143a
+name: imgbase64 test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1658262538817
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

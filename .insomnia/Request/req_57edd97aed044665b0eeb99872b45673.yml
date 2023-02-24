@@ -1,0 +1,21 @@
+_id: req_57edd97aed044665b0eeb99872b45673
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1658266076834
+created: 1658262538792
+url: https://vm.massinteligencia.com.br/?PublicId=31d449df7f48492ca229fac45f8a4275
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1658262538792
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,27 @@
+_id: req_02ba510b34724a638e18f6d61472d694
+type: Request
+parentId: fld_5964c1fbfe9c494cb558240df1e1f302
+modified: 1663001909873
+created: 1656064355307
+url: ""
+name: Ecorodovias Marca
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{ "integrationid":"5591b8ea-036d-422f-a89a-6992dc67a8fd",
+    "password":"AABB87AE3D1FD680F6B5995EBA8497FBFAD5C9C6"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_cc8565cdf6774cbea9be7a9012d539bf
+authentication: {}
+metaSortKey: -1656064160507
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

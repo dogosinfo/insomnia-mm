@@ -1,0 +1,26 @@
+_id: req_61f0d6c0679341aab972054b52a2a2b4
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1658775113317
+created: 1658760075309
+url: https://k8s.massinteligencia.com.br/security/apps/81274e13f4fd5fac0b4360aab7084e9d4bf290abbbf6616c25d7f5a12a8a6c46/validate
+name: Validate
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_c3ac0e0a88a84d9da39e37e951793640
+    name: Authorization
+    value: 7241fc625d2b4d3988f87a2d3e5134f450e205b398054b9e8a761db72d69acb7998f6a0e2cb045e2b28b70f58ed01ae4
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1658760075309
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,23 @@
+_id: req_ee43cfe0643b48318db40e11a6e03a0f
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1661045740753
+created: 1661044542711
+url: https://client.massinteligencia.com.br/list/
+name: client
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiMyIsInJvbGUiOiJBZG1pbiIsIm5iZiI6MTY2MTA0MzUyOCwiZXhwIjoxNjYxMDcyMzI4LCJpYXQiOjE2NjEwNDM1Mjh9.sk8b_58kzfXvGfgE05aJe26gx8NIP5iy-A4KVz41tJs
+metaSortKey: -1660669439291.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,42 @@
+_id: req_0edea59c3c7f41f69269de3daa65faa8
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1660693692043
+created: 1660693672919
+url: https://security.massinteligencia.com.br/login
+name: login-d
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_756acf26c9494ca994acf24760aa64af
+      name: username
+      value: eduardo.santo
+      description: ""
+    - id: pair_b0fa6686190c4b7aab26fdc87f95bcf3
+      name: client_id
+      value: FBBDbc431e7301490128c6C0AE8497c196e967ED7dc12f29b22D120e5ca08bbDDecd82873E73bb70d63Ff6256E422860838c
+      description: ""
+    - id: pair_0d6eaf2133c446988396f472fea741f7
+      name: password
+      value: eesduke
+      description: ""
+    - id: pair_a4e2054b60554984925290e8e1d495cf
+      name: grant_type
+      value: password
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_1c9ac2b58f824ab382bc377d4928936d
+authentication: {}
+metaSortKey: -1660629133487
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

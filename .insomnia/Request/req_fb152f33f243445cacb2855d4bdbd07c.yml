@@ -1,0 +1,30 @@
+_id: req_fb152f33f243445cacb2855d4bdbd07c
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1657845202437
+created: 1652993422347
+url: https://config-test.massinteligencia.com.br/service/5adffea681924a82b43a67c37883608f0941370f43b24d8ca77ae14bc3fbc261/config
+name: Get Config
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_c2d7cd3500204c9ab9d7d2631b6ff16b
+    name: Authorization
+    value: da3cc603fa234aa29882ef2e71f8e9542b6a62b4024f4587966ce67a6c2355e3
+    description: ""
+  - id: pair_2fdfa5af490f47e58272c11b48cfb3f8
+    name: content-type
+    value: application/json
+    description: ""
+authentication:
+  type: bearer
+metaSortKey: -1652993422347
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

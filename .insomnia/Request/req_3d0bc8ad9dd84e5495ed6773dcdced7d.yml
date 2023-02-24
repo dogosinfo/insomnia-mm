@@ -1,0 +1,33 @@
+_id: req_3d0bc8ad9dd84e5495ed6773dcdced7d
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1661900040227
+created: 1658769021492
+url: ""
+name: Validate Login
+description: ""
+method: GET
+body:
+  mimeType: application/x-www-form-urlencoded
+  params: []
+parameters: []
+headers:
+  - id: pair_c3ac0e0a88a84d9da39e37e951793640
+    name: Authorization
+    value: 7241fc625d2b4d3988f87a2d3e5134f450e205b398054b9e8a761db72d69acb7998f6a0e2cb045e2b28b70f58ed01ae4
+    description: ""
+    disabled: true
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+    id: pair_a97b6f157a264d30ae6436f5fed0f544
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiMyIsInJvbGUiOiJBZG1pbiIsIm5iZiI6MTY1ODc2ODk3OSwiZXhwIjoxNjU4Nzk3Nzc5LCJpYXQiOjE2NTg3Njg5Nzl9.h7iWoigJ7pQ5UVcZSxUoL8rS52RGM3o9Xv7RprtNSZc
+metaSortKey: -1658594239019
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

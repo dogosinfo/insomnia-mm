@@ -1,0 +1,26 @@
+_id: req_8e5af755ca2c49e9a9d11d99f53fdb09
+type: Request
+parentId: fld_f00b3c7e346b4ee59cd5ca9a1dddfbe4
+modified: 1661858861376
+created: 1660575392414
+url: https://v21.multclipp.com.br/api/cliente/?data=cadastro&data_inicial=2022-08-30
+  00:00:00&rpp=50&pagina=2
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_f02e364e941747f093acfb1e84e3ea7a
+    name: Authorization
+    value: Bearer 6fcfa715-9436-413e-b866-a5a37cc69d75
+    description: ""
+authentication: {}
+metaSortKey: -1660575392414
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

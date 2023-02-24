@@ -1,0 +1,28 @@
+_id: req_aadbc407a23f41458d135e7ffa01945f
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1661871245365
+created: 1661801355316
+url: http://localhost:5000/api/mail/list?NewsletterTypeId=1
+name: Email List 127.0.0.1
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_c3ac0e0a88a84d9da39e37e951793640
+    name: Authorization
+    value: 7241fc625d2b4d3988f87a2d3e5134f450e205b398054b9e8a761db72d69acb7998f6a0e2cb045e2b28b70f58ed01ae4
+    description: ""
+    disabled: true
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiMTEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2NjE4NjkyODIsImV4cCI6MTY2MTg5ODA4MiwiaWF0IjoxNjYxODY5MjgyfQ.kKjFcU5ATegxWMT4z-qNxEq8jO-mwKGt4h6q5ZIQwj0
+metaSortKey: -1658477635377.5938
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

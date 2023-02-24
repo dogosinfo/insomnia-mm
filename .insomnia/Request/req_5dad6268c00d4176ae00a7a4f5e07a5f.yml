@@ -1,0 +1,21 @@
+_id: req_5dad6268c00d4176ae00a7a4f5e07a5f
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1660690060043
+created: 1660228927513
+url: https://kong.massinteligencia.com.br/teste
+name: Istio kong
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659494239782.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

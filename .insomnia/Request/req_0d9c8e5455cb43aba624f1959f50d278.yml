@@ -1,0 +1,27 @@
+_id: req_0d9c8e5455cb43aba624f1959f50d278
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1660908905665
+created: 1660908870391
+url: https://kong.massinteligencia.com.br/api/tagcloud/info?createDate=2022-08-19%2000:00:00
+name: tag-cloud
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_b8b95073fa0d40cf972aee58755cedf3
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiMyIsInJvbGUiOiJBZG1pbiIsIm5iZiI6MTY2MDkwODc1OCwiZXhwIjoxNjYwOTM3NTU4LCJpYXQiOjE2NjA5MDg3NTh9.4GrKkMIscb6iVSc4mmpnsH3PMfKIEEZbK8l5nJqUnfM
+metaSortKey: -1660642568755.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

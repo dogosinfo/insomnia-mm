@@ -1,0 +1,26 @@
+_id: req_9d940169f3324e08b0815c45e83bbede
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1660690045535
+created: 1660228404256
+url: https://kong.massinteligencia.com.br/api/utils/encode-html
+name: kong
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '"<p>string</p><p>de<br />teste</p>"'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_450b52711a6a4cb0b8a7d2be1377fc94
+authentication: {}
+metaSortKey: -1660228404256
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

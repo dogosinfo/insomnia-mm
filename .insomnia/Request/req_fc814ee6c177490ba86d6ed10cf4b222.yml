@@ -1,0 +1,32 @@
+_id: req_fc814ee6c177490ba86d6ed10cf4b222
+type: Request
+parentId: fld_a336ed2759d74426b08b4505609e0b44
+modified: 1661900459286
+created: 1660741839117
+url: https://kong.massinteligencia.com.br/api/user/info/eduardo.santo
+name: user
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: '{"Id": 80}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1c9ac2b58f824ab382bc377d4928936d
+  - id: pair_b8b95073fa0d40cf972aee58755cedf3
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiMyIsInJvbGUiOiJBZG1pbiIsIm5iZiI6MTY2MDg3NTM3MywiZXhwIjoxNjYwOTA0MTczLCJpYXQiOjE2NjA4NzUzNzN9.LxWM4ok_7vRwrggKPdFzPXg8yEgGlwv7IoX5_10k7kI
+metaSortKey: -1660656004023.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

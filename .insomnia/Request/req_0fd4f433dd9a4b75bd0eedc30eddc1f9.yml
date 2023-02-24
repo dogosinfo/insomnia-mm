@@ -1,0 +1,27 @@
+_id: req_0fd4f433dd9a4b75bd0eedc30eddc1f9
+type: Request
+parentId: fld_5964c1fbfe9c494cb558240df1e1f302
+modified: 1664808930733
+created: 1663001920067
+url: http://cloud.boxnet.com.br/api/Clippings/
+name: EcorIO Minas
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{ "integrationid":"5591b8ea-036d-422f-a89a-6992dc67a8fd",
+    "password":"AABB87AE3D1FD680F6B5995EBA8497FBFAD5C9C6"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_cc8565cdf6774cbea9be7a9012d539bf
+authentication: {}
+metaSortKey: -1656064160482
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

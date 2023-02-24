@@ -1,0 +1,33 @@
+_id: req_f60e2c5d759644fe9f05955a8bbe8ab5
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1661344893040
+created: 1661280776153
+url: ""
+name: Pillar 127.0.0.1
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"Name":"Teste","CompetitorName":"","Enabled":true,"CompetitorId":"49"}'
+parameters: []
+headers:
+  - id: pair_c3ac0e0a88a84d9da39e37e951793640
+    name: Authorization
+    value: 7241fc625d2b4d3988f87a2d3e5134f450e205b398054b9e8a761db72d69acb7998f6a0e2cb045e2b28b70f58ed01ae4
+    description: ""
+    disabled: true
+  - name: Content-Type
+    value: application/json
+    id: pair_a97b6f157a264d30ae6436f5fed0f544
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjgwIiwiY2xpZW50X2lkIjoiMTAiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2NjEyODM3NzcsImV4cCI6MTY2MTMxMjU3NywiaWF0IjoxNjYxMjgzNzc3fQ.S8tdEjR8jCUzAYoaMVjqF3vBHKRc_urCO4jptNYlgUA
+metaSortKey: -1658511320874
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

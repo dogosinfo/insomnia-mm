@@ -1,0 +1,27 @@
+_id: req_1d132bb9200a4b6aa674ffa795cf9c86
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1658760064321
+created: 1650451086380
+url: http://cloud.boxnet.com.br/api/Clippings/
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"IntegrationId": "b6a6a47a-fc36-4bcf-acef-70187a87b5d3","Password":
+    "68A0C42BC6D7B07A7AD251F6D42AEB79BF0D2321"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_568e5855cde64bb5bbb33e86f568e562
+authentication: {}
+metaSortKey: -1650451086380
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

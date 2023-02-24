@@ -1,0 +1,27 @@
+_id: req_3c1c24cbe15b4cc7911bf7004ef09a92
+type: Request
+parentId: fld_5964c1fbfe9c494cb558240df1e1f302
+modified: 1659030219826
+created: 1656064160457
+url: http://cloud.boxnet.com.br/api/Clippings/
+name: Neoenergia
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"IntegrationId": "b6a6a47a-fc36-4bcf-acef-70187a87b5d3","Password":
+    "68A0C42BC6D7B07A7AD251F6D42AEB79BF0D2321"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1e174222b98a42ac9e45a1c182033164
+authentication: {}
+metaSortKey: -1656064160457
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_843b7929bbe544ce830523fbe5934371
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1660640814893
+created: 1660427128788
+url: http://service.massinteligencia.com.br/swagger
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1660427128788
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

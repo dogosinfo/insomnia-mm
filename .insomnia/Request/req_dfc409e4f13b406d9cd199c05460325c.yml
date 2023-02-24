@@ -1,0 +1,26 @@
+_id: req_dfc409e4f13b406d9cd199c05460325c
+type: Request
+parentId: wrk_758ef0bc4765402b8510833276872269
+modified: 1653568419983
+created: 1653483277093
+url: " http://52.153.249.5:15672/api/exchanges/%2F/"
+name: rabbit
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: inteligencia-user
+  password: a8a76ff7f7914f2a87eac04a5409f83a70bbb42cff5c4e5bb07e7f3aea90416b
+metaSortKey: -1653483277093
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,41 @@
+_id: req_3f118750ba1d4682a3138756a62bbd83
+type: Request
+parentId: fld_ecc990d3468f48e8a074a83ff6637d7d
+modified: 1671399928759
+created: 1658423411750
+url: https://k8s.massinteligencia.com.br/pinner/ner
+name: ner
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"text":"SÃO PAULO (Reuters) - A bolsa paulista teve um dia de forte
+    correção nesta segunda-feira, a poucos dias do desfecho da corrida
+    presidencial, com o Ibovespa caindo mais de 3% e as ações de estatais como
+    Banco do Brasil e Petrobras desabando entre 9% e 10%  <br>    <br>  Em meio
+    a uma disputa acirrada entre Luiz Inácio Lula da Silva (PT) e Jair Bolsonaro
+    (PL), pesou no mercado o ataque com tiros de fuzil e granadas contra
+    policiais federais pelo ex-deputado Roberto Jefferson (PTB), apoiador do
+    presidente.  <br>    <br>  Índice de referência do mercado acionário
+    brasileiro, o Ibovespa caiu 3,26%, a 116.016,3 pontos, de acordo com dados
+    preliminares, maior queda percentual diária desde 26 de novembro de 2021. No
+    pior momento, chegou a 115.792,69 pontos.  <br>    <br>  O volume financeiro
+    na sessão somava 28,8 bilhões de reais.  <br>    <br>  O episódio do fim de
+    semana desestabilizou a euforia de que Bolsonaro reverteria no dia 30 a
+    derrota que sofreu de Lula no primeiro turno. Essa aposta ajudou o Ibovespa
+    a subir 7% e flertar com os 120 mil pontos na semana
+    passada.  <br>    <br>  (Por Paula Arend Laier)"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_4293cf5651bc45f98619e40dcffdd658
+authentication: {}
+metaSortKey: -1658428402729
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
